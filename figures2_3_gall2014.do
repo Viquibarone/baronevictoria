@@ -1,3 +1,5 @@
+** Code by @Viquibarone
+
 ** FIGURE 2 
 
 use "panel_1990_2007", clear
